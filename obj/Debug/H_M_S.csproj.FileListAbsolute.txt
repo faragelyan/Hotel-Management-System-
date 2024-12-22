@@ -1,0 +1,7 @@
+C:\Users\MOHAMED\Desktop\project_H_M\H_M_S\H_M_S\obj\Debug\H_M_S.csproj.AssemblyReference.cache
+C:\Users\MOHAMED\Desktop\project_H_M\H_M_S\H_M_S\obj\Debug\H_M_S.csproj.CoreCompileInputs.cache
+C:\Users\MOHAMED\Desktop\project_H_M\H_M_S\H_M_S\bin\Debug\H_M_S.exe.config
+C:\Users\MOHAMED\Desktop\project_H_M\H_M_S\H_M_S\bin\Debug\H_M_S.exe
+C:\Users\MOHAMED\Desktop\project_H_M\H_M_S\H_M_S\bin\Debug\H_M_S.pdb
+C:\Users\MOHAMED\Desktop\project_H_M\H_M_S\H_M_S\obj\Debug\H_M_S.exe
+C:\Users\MOHAMED\Desktop\project_H_M\H_M_S\H_M_S\obj\Debug\H_M_S.pdb

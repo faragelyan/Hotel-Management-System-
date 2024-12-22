@@ -1,0 +1,4 @@
+John Doe,Receptionist,1500
+Jane Smith,Manager,2500
+John Doe,Receptionist,1500
+Jane Smith,Manager,2500
